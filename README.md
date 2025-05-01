@@ -23,7 +23,7 @@ This project is a comprehensive analysis of banking data aimed at understanding 
 ## 📷 Project Screenshots
 
 ### 1. Home
-![Home](images/customer_demographics.png)
+![Home](https://github.com/RohitPhatangare23/Banking_Analysis/blob/master/DashBoard_Images/Banking%20Dashboard_page-0001.jpg)
 
 ### 2. Loan Analysis
 ![Loan Analysis](images/transaction_trends.png)
