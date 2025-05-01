@@ -26,16 +26,13 @@ This project is a comprehensive analysis of banking data aimed at understanding 
 ![Home](https://github.com/RohitPhatangare23/Banking_Analysis/blob/master/DashBoard_Images/Banking%20Dashboard_page-0001.jpg)
 
 ### 2. Loan Analysis
-![Loan Analysis](images/transaction_trends.png)
+![Loan Analysis](https://github.com/RohitPhatangare23/Banking_Analysis/blob/master/DashBoard_Images/Banking%20Dashboard_page-0002.jpg)
 
 ### 3. Deposit Analysis
-![Deposit Analysis](images/correlation_heatmap.png)
+![Deposit Analysis](https://github.com/RohitPhatangare23/Banking_Analysis/blob/master/DashBoard_Images/Banking%20Dashboard_page-0003.jpg)
 
 ### 4. Summary
-![Summary(images/segmentation_balance.png)
-
-### 5. Drill Through
-![Drill Through](images/interactive_dashboard.png)
+![Summary](https://github.com/RohitPhatangare23/Banking_Analysis/blob/master/DashBoard_Images/Banking%20Dashboard_page-0004.jpg)
 
 Let me know if you want me to help generate demo images or charts for these placeholders!
 
